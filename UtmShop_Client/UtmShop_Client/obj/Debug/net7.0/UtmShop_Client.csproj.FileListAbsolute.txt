@@ -1,0 +1,21 @@
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/UtmShop_Client/UtmShop_Client/bin/Debug/net7.0/UtmShop_Client
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/UtmShop_Client/UtmShop_Client/bin/Debug/net7.0/UtmShop_Client.deps.json
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/UtmShop_Client/UtmShop_Client/bin/Debug/net7.0/UtmShop_Client.runtimeconfig.json
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/UtmShop_Client/UtmShop_Client/bin/Debug/net7.0/UtmShop_Client.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/UtmShop_Client/UtmShop_Client/bin/Debug/net7.0/UtmShop_Client.pdb
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/UtmShop_Client/UtmShop_Client/obj/Debug/net7.0/UtmShop_Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/UtmShop_Client/UtmShop_Client/obj/Debug/net7.0/UtmShop_Client.AssemblyInfoInputs.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/UtmShop_Client/UtmShop_Client/obj/Debug/net7.0/UtmShop_Client.AssemblyInfo.cs
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/UtmShop_Client/UtmShop_Client/obj/Debug/net7.0/UtmShop_Client.csproj.CoreCompileInputs.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/UtmShop_Client/UtmShop_Client/obj/Debug/net7.0/UtmShop_Client.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/UtmShop_Client/UtmShop_Client/obj/Debug/net7.0/refint/UtmShop_Client.dll
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/UtmShop_Client/UtmShop_Client/obj/Debug/net7.0/UtmShop_Client.pdb
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/UtmShop_Client/UtmShop_Client/obj/Debug/net7.0/UtmShop_Client.genruntimeconfig.cache
+/Users/danielcojocaru/Nextcloud/Documents/Univer/Anul 3/PR/Lab4/UtmShop_Client/UtmShop_Client/obj/Debug/net7.0/ref/UtmShop_Client.dll
+C:\Users\dumit\Downloads\PR\Lab4\UtmShop_Client\UtmShop_Client\obj\Debug\net7.0\UtmShop_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dumit\Downloads\PR\Lab4\UtmShop_Client\UtmShop_Client\obj\Debug\net7.0\UtmShop_Client.AssemblyInfoInputs.cache
+C:\Users\dumit\Downloads\PR\Lab4\UtmShop_Client\UtmShop_Client\obj\Debug\net7.0\UtmShop_Client.AssemblyInfo.cs
+C:\Users\dumit\Downloads\PR\Lab4\UtmShop_Client\UtmShop_Client\obj\Debug\net7.0\UtmShop_Client.csproj.CoreCompileInputs.cache
+C:\Users\dumit\Downloads\PR\Lab4\UtmShop_Client\UtmShop_Client\obj\Debug\net7.0\UtmShop_Client.dll
+C:\Users\dumit\Downloads\PR\Lab4\UtmShop_Client\UtmShop_Client\obj\Debug\net7.0\refint\UtmShop_Client.dll
+C:\Users\dumit\Downloads\PR\Lab4\UtmShop_Client\UtmShop_Client\obj\Debug\net7.0\UtmShop_Client.pdb
